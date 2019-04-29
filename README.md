@@ -1,4 +1,4 @@
-# SmartBrain-FrontEndPart
+# SmartBrainApp-FrontEndPart
 
 ## To run this app:
 ### 1st step - 
