@@ -1,5 +1,8 @@
 # SmartBrainApp-FrontEndPart
 
+This SmartBrain is a Face Recognition App created by using ReactJS
+
+
 ## To run this app:
 ### 1st step - 
 Clone this repo,
