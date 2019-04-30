@@ -18,3 +18,6 @@ Run npm start.
 
 ### Screenshot of Front or SignIn Page:
 ![screencapture-localhost-3000-2019-04-30-01_55_25](https://user-images.githubusercontent.com/43598622/56924019-bf40d000-6aed-11e9-9766-da3ef1de6110.jpg)
+
+### Screenshot of Registration Page:
+![screencapture-localhost-3000-2019-04-30-01_55_06](https://user-images.githubusercontent.com/43598622/56959054-fce53d80-6b6d-11e9-8822-13f48d8429ad.jpg)
