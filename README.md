@@ -11,7 +11,7 @@ Run npm install and
 ### 3rd step -
 Run npm start.
 
-**You must get your own API key from [here](https://clarifai.com/)**
+** **You MUST get your own API key from [here](https://clarifai.com/)**
 
 ## This app looks like this:
 ![screencapture-localhost-3000-2019-04-27-00_40_11](https://user-images.githubusercontent.com/43598622/56923892-7a1c9e00-6aed-11e9-9bad-324a42949b69.jpg)
