@@ -4,14 +4,14 @@ This SmartBrain is a Face Recognition App created by using ReactJS
 
 
 ## To run this app:
-### 1st step - 
+* 1st step - 
 Clone this repo,
-### 2nd step - 
+* 2nd step - 
 Run npm install and 
-### 3rd step -
+* 3rd step -
 Run npm start.
 
-** **You MUST get your own API key from [Clarifai](https://clarifai.com/) . Also can follow the [guideline](https://clarifai.com/models/face-detection-image-recognition-model-a403429f2ddf4b49b307e318f00e528b-detection).**
+* 4rth step - **You MUST get your own API key from [Clarifai](https://clarifai.com/) . Also can follow the [guideline](https://clarifai.com/models/face-detection-image-recognition-model-a403429f2ddf4b49b307e318f00e528b-detection).**
 
 ## This app looks like this:
 ![screencapture-localhost-3000-2019-04-27-00_40_11](https://user-images.githubusercontent.com/43598622/56923892-7a1c9e00-6aed-11e9-9bad-324a42949b69.jpg)
