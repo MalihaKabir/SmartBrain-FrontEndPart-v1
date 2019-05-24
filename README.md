@@ -1,6 +1,6 @@
-# SmartBrainApp-FrontEndPart
+# SmartBrainApp-FrontEndPart-v1
 
-This SmartBrain is a Face Recognition App created using ReactJS
+This SmartBrain is a Face Recognition App created by using ReactJS. You can click [here](https://github.com/MalihaKabir/SmartBrain-v2) to check the second version of it.
 
 
 ## To run this app:
